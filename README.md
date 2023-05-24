@@ -4,6 +4,8 @@
 
 🐂 Enthusiastic about the GNU/Linux ecosystem and the FOSS Principles.
 
+⚡ CLIs enjoyer.
+
 🐃 With skills to organize teams, taking leadership decisions, help people to grow, and meet correctly set up deadlines. Highly responsible with a talent of delivering brilliantly transparent communication.
 
 🤖 Total commitment to improve the development proccess, by introducing new methodologies into the workflow (such as CI/CD), automating repetitive tasks and striving to understand and meet the business requirements.
